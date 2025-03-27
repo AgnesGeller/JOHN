@@ -79,8 +79,8 @@ img {
 }
 
 .logo{
-    width: 100px;
-    height: 70px;
+    width: 200px;
+    height: 100px;
     /* border: 1px solid red; */
     /* background-image: url(./assets/img/logo.png); */
     background-size: cover;
@@ -145,7 +145,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/hero-1.jpg);
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.507), rgba(var(--c-brand-rgb), 0.438)), url(../images/JHero.jpg);
     background-position: center;
     background-size: cover;
 }
