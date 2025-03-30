@@ -101,6 +101,7 @@ img {
 }
 
 #digital-clock {
+    width: 80px;
     font-size: 1rem;
     color: #091a89;
     text-align: center;
