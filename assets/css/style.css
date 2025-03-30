@@ -76,19 +76,20 @@ img {
 /* NAVBAR */
 .navbar {
     box-shadow: var(--box-shadow);
-}
+    height: 50px; /* Csökkentsd a kívánt értékre */
+    line-height: 50px; /* Igazítsd a tartalom vertikális elrendezését */
+    }
+
 
 .logo{
     width: 200px;
     height: 100px;
-    /* border: 1px solid red; */
-    /* background-image: url(./assets/img/logo.png); */
-    padding: 10px 20px; /* Győződj meg arról, hogy ez nem túl nagy */
+    padding: 10px 10px/* Győződj meg arról, hogy ez nem túl nagy */
     margin: 0; /* Távolítsd el a felesleges margókat */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 .navbar-nav .nav-link {
