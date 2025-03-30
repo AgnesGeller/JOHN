@@ -82,8 +82,8 @@ img {
 .logo{
     width: 200px;
     height: 100px;
-    padding: 10px 10px/* Győződj meg arról, hogy ez nem túl nagy */
-    margin: 0; /* Távolítsd el a felesleges margókat */
+    padding: 10px 10px;
+    margin: 0;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
