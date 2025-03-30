@@ -76,9 +76,7 @@ img {
 /* NAVBAR */
 .navbar {
     box-shadow: var(--box-shadow);
-    height: 50px; /* Csökkentsd a kívánt értékre */
-    line-height: 50px; /* Igazítsd a tartalom vertikális elrendezését */
-    }
+}
 
 
 .logo{
