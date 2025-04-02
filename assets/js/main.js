@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function() {
   var navbarMenu = document.querySelector('#navbarNav');
   var submenus = document.querySelectorAll('.dropdown-submenu');
   
-  function updateClock() {
+    function updateClock() {
     var now = new Date();
     var hours = now.getHours();
     var minutes = now.getMinutes();
